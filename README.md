@@ -4,14 +4,15 @@
 Desafio 1 de 7 -  Lógica js - Operações Booleanas
 
 Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
-
+```
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
 let stringTrinta = '30'
 let numeroDez = 10
 let stringDez = '10'
-
+```
+```
 if (COMPARAR O numeroUm e a stringUm) {
   console.log('As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes')
 } else {
@@ -29,3 +30,4 @@ if (COMPARAR O numeroDez e a stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+```
